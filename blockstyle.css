@@ -1,0 +1,9 @@
+.themed-grid-col
+		{
+    text-align: center;
+    padding-top: .100rem;
+    padding-bottom: .100rem;
+    color:#47649F;
+    background-color:#F6F7F8;
+    border:1px solid #DDD; 
+}
